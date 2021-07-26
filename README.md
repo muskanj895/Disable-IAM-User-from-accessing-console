@@ -5,6 +5,7 @@
 To list all the IAM user and then selecting users which needs to be disabled. It can be in bulk or one user. If we then try to access AWS console for that particular user then it will not be able to do so.
 
 For listing use -l
+
 ![image](https://user-images.githubusercontent.com/63298380/126998632-7ebddd33-307d-41a5-b925-4991d9f83f30.png)
 
 For any help or to know more about it use -h
